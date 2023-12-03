@@ -1,4 +1,4 @@
-package org.bank.Example.Spring.Batch.batch;
+package org.bank.Example.Spring.Batch.controller;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecution;
